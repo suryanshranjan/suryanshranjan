@@ -1,6 +1,6 @@
 # Hi, I'm Suryansh Ranjan 👋
 
-**Co-Founder @ [BarterNow](https://barternow.in)** · Data & Backend Engineer · Final-year B.Tech CSE @ ABES Engineering College
+**Co-Founder @ [BarterNow](https://barternow.in)** · Data & Backend Engineer · B.Tech CSE, ABES Engineering College (2026)
 
 I build and run production systems end to end: data models, backend services, cloud pipelines on AWS and Azure, and LLM- and MCP-powered tooling. I also keep it all secure and shipping.
 
