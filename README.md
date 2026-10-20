@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suryansh Ranjan 👋</h1>
 
 <p align="center">
-  <b>Co-Founder @ <a href="https://barternow.in">BarterNow</a></b> · Data & Backend Engineer<br/>
+  <b>Co-Founder @ <a href="https://barternow.in">BarterNow</a></b><br/>
   I build production systems end to end: data models, backend services, cloud pipelines and LLM tooling.
 </p>
 
