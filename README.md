@@ -58,8 +58,6 @@ The platform where brands find, contract, pay and measure event and creator spon
 ### 🏆 Highlights
 
 - 🤝 Closed **50+ brands** as sponsors by hand over 3+ years, including GitHub, Polygon, Solana and Physics Wallah
-- 🥈 **2nd place**, Autodesk internal hackathon
-
 ---
 
 <p align="center"><i>📌 My work is in the pinned repositories below. Always happy to talk data, backend and AI tooling.</i></p>
