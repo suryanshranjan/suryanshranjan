@@ -27,6 +27,13 @@ AI-powered platform for brand and event partnerships.
 - Wrote SQL on production eB2B/SFA data and built Power BI dashboards for business reviews.
 - Built data-quality workflows that cut manual validation by **~60%**.
 
+### 🚀 Projects
+
+- **[askwhy](https://github.com/suryanshranjan/askwhy)** · `git blame` tells you who, `git why` tells you why. Per-hunk provenance for agent-written code (Claude Code, Codex), stored in git. On [npm](https://www.npmjs.com/package/askwhy).
+- **[multi-agent-document-processor](https://github.com/suryanshranjan/multi-agent-document-processor)** · Master/sub-agent pipeline that masks PII, classifies and token-reduces documents before LLM calls. FastAPI, NVIDIA NIM, Redis.
+- **[nl-to-sql](https://github.com/suryanshranjan/nl-to-sql)** · Ask PostgreSQL questions in plain English, with schema-aware SQL generation and read-only guardrails.
+- **[brand-extractor](https://github.com/suryanshranjan/brand-extractor)** · Finds the brands that sponsor or partner with an Instagram account. CLI, REST API and dashboard.
+
 ### 🎓 Education
 
 **B.Tech, Computer Science & Engineering** · ABES Engineering College · *2026*
