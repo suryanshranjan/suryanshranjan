@@ -16,14 +16,22 @@
 
 ### 💼 Experience
 
-**Co-Founder · [BarterNow](https://barternow.in)** &nbsp;·&nbsp; *Dec 2025 – Present*<br/>
-AI-powered platform for brand and event partnerships.
+**Co-Founder, Sales & Product · [BarterNow](https://barternow.in)** &nbsp;·&nbsp; *Dec 2025 – Present*<br/>
+The platform where brands find, contract, pay and measure event and creator sponsorships in one workflow.
+- Architected the platform and lead sales; 125+ organizations signed up and 70+ events listed across India.
 - Own the data foundation: PostgreSQL schemas, validation workflows, event and funnel modeling, and analytical SQL that replaced manual reporting.
 - Run CI/CD with GitHub Actions and ship Dockerized services to **AWS** and **Azure**; every pull request is built, tested and deployed.
 - Keep the supply chain patched with **Dependabot** vulnerability tracking and automated update PRs.
 - Build **MCP servers** and LLM integrations that connect models to real data and internal tools.
 
+**Software Engineer · Autodesk** &nbsp;·&nbsp; *Present*
+- 2nd place in Autodesk's internal hackathon: gesture- and voice-controlled interaction for an Autodesk product.
+
+**Strategic Advisor · [Contral.ai](https://contral.ai)**
+- AI coding IDE that teaches while you build. Helped it reach 500 daily active users and 5,000+ downloads; its AppSumo launch crossed **$1,000 in the first 6 hours**.
+
 **Business Analyst · SalesCode.ai** &nbsp;·&nbsp; *Jun – Nov 2025*
+- Ran CRM analysis for **Coca-Cola India** and handled stakeholder communication with CPG clients including Perfetti Van Melle and Dabur.
 - Wrote SQL on production eB2B/SFA data and built Power BI dashboards for business reviews.
 - Built data-quality workflows that cut manual validation by **~60%**.
 
@@ -49,6 +57,8 @@ AI-powered platform for brand and event partnerships.
 
 ### 🏆 Highlights
 
+- 🤝 Closed **50+ brands** as sponsors by hand over 3+ years, including GitHub, Polygon, Solana and Physics Wallah
+- 🥈 **2nd place**, Autodesk internal hackathon
 - 🥇 **Ranked 1st of 500** in an inter-college debugging competition
 - 🎤 National-level debater
 - 🤝 Head of Sponsorship, **GDG ABES-EC** · Coordinator, Alumni Meet '24
