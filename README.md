@@ -24,10 +24,10 @@ The platform where brands find, contract, pay and measure event and creator spon
 - Keep the supply chain patched with **Dependabot** vulnerability tracking and automated update PRs.
 - Build **MCP servers** and LLM integrations that connect models to real data and internal tools.
 
-**Software Engineer · Autodesk** &nbsp;·&nbsp; *Present*
+**Software Engineer · Autodesk** &nbsp;·&nbsp; *Jul 2026 – Present*
 - 2nd place in Autodesk's internal hackathon: gesture- and voice-controlled interaction for an Autodesk product.
 
-**Strategic Advisor · [Contral.ai](https://contral.ai)**
+**Strategic Advisor · [Contral.ai](https://contral.ai)** &nbsp;·&nbsp; *Jan – Jul 2026*
 - AI coding IDE that teaches while you build. Helped it reach 500 daily active users and 5,000+ downloads; its AppSumo launch crossed **$1,000 in the first 6 hours**.
 
 **Business Analyst · SalesCode.ai** &nbsp;·&nbsp; *Jun – Nov 2025*
