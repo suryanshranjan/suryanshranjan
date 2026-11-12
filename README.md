@@ -39,6 +39,7 @@ The platform where brands find, contract, pay and measure event and creator spon
 
 ### 🚀 Projects
 
+- **[hive](https://github.com/suryanshranjan/hive)** · Run your product from your phone: tell it a business goal on Telegram and a team of AI coding agents plans, builds and tests it, then hands your engineer a pull request. Backed by **107 pre-registered experiments**; **95%** hidden-test correctness with its intent layer, vs 53% without.
 - **[askwhy](https://github.com/suryanshranjan/askwhy)** · `git blame` tells you who, `git why` tells you why. Per-hunk provenance for agent-written code (Claude Code, Codex), stored in git. On [npm](https://www.npmjs.com/package/askwhy).
 - **[multi-agent-document-processor](https://github.com/suryanshranjan/multi-agent-document-processor)** · Master/sub-agent pipeline that masks PII, classifies and token-reduces documents before LLM calls. FastAPI, NVIDIA NIM, Redis.
 - **[nl-to-sql](https://github.com/suryanshranjan/nl-to-sql)** · Ask PostgreSQL questions in plain English, with schema-aware SQL generation and read-only guardrails.
