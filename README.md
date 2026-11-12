@@ -2,10 +2,12 @@
 
 <p align="center">
   <b>Co-Founder @ <a href="https://barternow.in">BarterNow</a></b><br/>
-  I build production systems end to end: data models, backend services, cloud pipelines and LLM tooling.
+  I build production systems end to end: data models, backend services, cloud pipelines and LLM tooling.<br/>
+  🌐 <a href="https://suryanshranjan.me"><b>suryanshranjan.me</b></a> · my portfolio, built as an operating system. Open it on your phone.
 </p>
 
 <p align="center">
+  <a href="https://suryanshranjan.me"><img src="https://img.shields.io/badge/Portfolio-suryanshranjan.me-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: suryanshranjan.me"/></a>
   <a href="https://linkedin.com/in/suryanshranjan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:suryanshranjan21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://barternow.in"><img src="https://img.shields.io/badge/BarterNow-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BarterNow"/></a>
